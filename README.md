@@ -1,2 +1,4 @@
-# Echo-Direction-Encoding-
-[AAAI 2025] EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar
+# Echo-Direction-Encoding
+This repo contains the code for our AAAI 2025 paper, EDENet: Echo Direction Encoding Network for Place Recognition Based on
+Ground Penetrating Radar.
+
